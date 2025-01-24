@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where the development server would randomly crash without any clear error messages in the terminal. This would happen intermittently, making development frustrating and unpredictable.  The Expo Go app on my device would also disconnect from the development server during these crashes.
